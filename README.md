@@ -11,3 +11,7 @@
 ### Github
 
 - [How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
+
+### 文献
+
+- [深入理解计算机系统](https://book.douban.com/subject/5333562)
