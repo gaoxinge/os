@@ -8,7 +8,7 @@
 
 ## linux
 
-- [教程]()
+- [教程](https://github.com/gaoxinge/os/blob/master/linux/%E6%95%99%E7%A8%8B.md)
 
 ## 其他
 
