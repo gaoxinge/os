@@ -4,6 +4,12 @@
 
 ## windows
 
+- [微软管理控制台]()
+
+- [任务管理器]()
+
+- [注册表]()
+
 - [虚拟机](https://github.com/gaoxinge/os/blob/master/windows/%E6%95%99%E7%A8%8B.md)
 
 ## linux
