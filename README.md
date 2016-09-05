@@ -4,13 +4,13 @@
 
 ## windows
 
-- [微软管理控制台]()
+- [微软管理控制台](https://github.com/gaoxinge/os/blob/master/windows/%E5%BE%AE%E8%BD%AF%E7%AE%A1%E7%90%86%E6%8E%A7%E5%88%B6%E5%8F%B0.md)
 
-- [任务管理器]()
+- [任务管理器](https://github.com/gaoxinge/os/blob/master/windows/%E4%BB%BB%E5%8A%A1%E7%AE%A1%E7%90%86%E5%99%A8.md)
 
-- [注册表]()
+- [注册表](https://github.com/gaoxinge/os/blob/master/windows/%E6%B3%A8%E5%86%8C%E8%A1%A8.md)
 
-- [虚拟机](https://github.com/gaoxinge/os/blob/master/windows/%E6%95%99%E7%A8%8B.md)
+- [虚拟机](https://github.com/gaoxinge/os/blob/master/windows/%E8%99%9A%E6%8B%9F%E6%9C%BA.md)
 
 ## linux
 
