@@ -4,7 +4,7 @@
 
 ## windows
 
-- [C≈Ã]()
+- [C≈Ã](https://github.com/gaoxinge/os/blob/master/windows/C%E7%9B%98.md)
 
 - [øÿ÷∆√Ê∞Â](https://github.com/gaoxinge/os/blob/master/windows/%E6%8E%A7%E5%88%B6%E9%9D%A2%E6%9D%BF.md)
 
