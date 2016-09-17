@@ -16,6 +16,10 @@
 
 ### 任务管理器
 
+任务管理器用于监控进程，线程，位于`C:\Windows\SysWOW64\taskmgr.exe`
+
 ### 微软管理控制台
+
+微软管理控制台可以删增SSL证书，位于`C:\Windows\SysWOW64\mmc.exe`
 
 ## 用户
