@@ -10,8 +10,4 @@ Hadoop是一个由Apache基金会所开发的分布式系统框架，其最核心的设计就是HDFS和MapRed
 
 - [wordcount](https://github.com/gaoxinge/os/blob/master/windows/%E6%95%99%E7%A8%8B/wordcount.md)
 
-- [数据去重](https://github.com/gaoxinge/os/blob/master/windows/%E6%95%99%E7%A8%8B/%E6%95%B0%E6%8D%AE%E5%8E%BB%E9%87%8D.md)
-
-- [排序](https://github.com/gaoxinge/os/blob/master/windows/%E6%95%99%E7%A8%8B/%E6%8E%92%E5%BA%8F.md)
-
-- [TopK](https://github.com/gaoxinge/os/blob/master/windows/%E6%95%99%E7%A8%8B/TopK.md)
+- [match](https://github.com/gaoxinge/os/blob/master/windows/%E6%95%99%E7%A8%8B/match.md)
