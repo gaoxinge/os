@@ -12,7 +12,7 @@
 
 ## linux
 
-- [基础]()
+- [基础](https://github.com/gaoxinge/os/blob/master/linux/%E5%9F%BA%E7%A1%80.md)
 
 - [教程](https://github.com/gaoxinge/os/blob/master/linux/%E6%95%99%E7%A8%8B.md)
 
