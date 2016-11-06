@@ -1,7 +1,5 @@
 # os
 
-## gaobige
-
 ## windows
 
 - [Cел](https://github.com/gaoxinge/os/blob/master/windows/C%E7%9B%98.md)
