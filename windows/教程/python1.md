@@ -1,9 +1,21 @@
-﻿# python
+﻿# python1
 
 ## 进入hadoop目录
 
 ```
 cd $HADOOP_PREFIX
+```
+
+## 创建input
+
+```
+vi test.txt
+
+# Hello Edison Chou
+# Hello Hadoop RPC
+# Hello Wncud Chou
+# Hello Hadoop MapReduce
+# Hello Dick Gu
 ```
 
 ## 创建mapper
@@ -48,7 +60,6 @@ echo "foo foo quux labs foo bar quux" | ./mapper.py | sort | ./reducer.py
 
 ```python
 #!/usr/bin/env python  
-from operator import itemgetter  
 import sys  
   
 current_word = None  
@@ -77,24 +88,12 @@ if current_word == word:
     print '%s\t%s' % (current_word, current_count)  
 ```
 
-## 创建input
-
-```
-vi test.txt
-
-# Hello Edison Chou
-# Hello Hadoop RPC
-# Hello Wncud Chou
-# Hello Hadoop MapReduce
-# Hello Dick Gu
-```
-
 ## 上传hdfs
 
 ```
+bin/hadoop fs -put test.txt
 bin/hadoop fs -put mapper.py
 bin/hadoop fs -put reducer.py
-bin/hadoop fs -put test.txt
 ```
 
 ## 查看hdfs
