@@ -26,6 +26,14 @@
 
 - [How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
 
+- xv6
+
+  - [课程](https://pdos.csail.mit.edu/6.828/2016)
+  - [英文文档](https://pdos.csail.mit.edu/6.828/2012/xv6/book-rev7.pdf)
+  - [中文文档](https://www.gitbook.com/book/th0ar/xv6-chinese/details)
+  - [代码1](https://github.com/mit-pdos/xv6-public)
+  - [代码2](https://github.com/bringhurst/xv6)
+
 ### 文献
 
 - [计算机组成原理](https://book.douban.com/subject/2994636)
