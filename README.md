@@ -33,6 +33,7 @@
   - [中文文档](https://www.gitbook.com/book/th0ar/xv6-chinese/details)
   - [代码1](https://github.com/mit-pdos/xv6-public)
   - [代码2](https://github.com/bringhurst/xv6)
+  - [代码3](https://github.com/rswier/swieros)
 
 ### 文献
 
