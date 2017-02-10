@@ -40,3 +40,7 @@
 ### 文献
 
 - [计算机组成原理](https://book.douban.com/subject/2994636)
+
+- [汇编语言](https://book.douban.com/subject/3037562)
+
+- [深入理解计算机系统](https://book.douban.com/subject/5333562)
