@@ -1,5 +1,44 @@
 # os
 
+## 硬件
+
+- 单片机
+
+  - arduino
+  - 树莓派（Raspberry Pi）
+
+- PC
+
+- 服务器
+
+## 操作系统
+
+- [操作系统导论](http://www.cnblogs.com/edisonchou/p/4996163.html)
+
+- [一些基本概念](http://www.cnblogs.com/edisonchou/p/4999362.html)
+
+- [进程原理（上）：进程概要](http://www.cnblogs.com/edisonchou/p/5003694.html)
+
+- [进程原理（中）：进程调度](http://www.cnblogs.com/edisonchou/p/5020681.html)
+
+- [进程原理（下）：进程通信](http://www.cnblogs.com/edisonchou/p/5022508.html)
+
+- [线程原理（上）：线程基础与线程同步](http://www.cnblogs.com/edisonchou/p/5037403.html)
+
+- [线程原理（下）：死锁基础原理](http://www.cnblogs.com/edisonchou/p/5061886.html)
+
+- [内存管理（上）：基本内存管理](http://www.cnblogs.com/edisonchou/p/5090315.html)
+
+- [内存管理（中）：分页内存管理](http://www.cnblogs.com/edisonchou/p/5094066.html)
+
+- [内存管理（下）：段式内存管理](http://www.cnblogs.com/edisonchou/p/5115242.html)
+
+- [外存管理（上）：磁盘基础](http://www.cnblogs.com/edisonchou/p/5136649.html)
+
+- [外存管理（下）：文件系统](http://www.cnblogs.com/edisonchou/p/5154252.html)
+
+- [设备管理：I/O原理](http://www.cnblogs.com/edisonchou/p/5154484.html)
+
 ## windows
 
 - [C盘](https://github.com/gaoxinge/os/blob/master/windows/C%E7%9B%98.md)
@@ -38,6 +77,8 @@
   - [代码3](https://github.com/rswier/swieros)
 
 ### 文献
+
+- []()
 
 - [计算机组成原理](https://book.douban.com/subject/2994636)
 
