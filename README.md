@@ -61,7 +61,7 @@
 
 - [其他](https://github.com/gaoxinge/os/blob/master/architecture/%E5%85%B6%E4%BB%96.md)
 
-- [自己搭建深度学习环境]()
+- [自己搭建深度学习环境](https://github.com/gaoxinge/os/blob/master/architecture/%E8%87%AA%E5%B7%B1%E6%90%AD%E5%BB%BA%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%8E%AF%E5%A2%83.md)
 
 ## 其他
 
