@@ -57,9 +57,9 @@
 
 - [厂商]()
 
-- [芯片]()
+- [芯片](https://github.com/gaoxinge/os/blob/master/architecture/%E8%8A%AF%E7%89%87.md)
 
-- [其他]()
+- [其他](https://github.com/gaoxinge/os/blob/master/architecture/%E5%85%B6%E4%BB%96.md)
 
 ## 其他
 
