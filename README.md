@@ -55,7 +55,7 @@
 
 ## architecture
 
-- [厂商]()
+- [厂商](https://github.com/gaoxinge/os/blob/master/architecture/%E5%8E%82%E5%95%86.md)
 
 - [芯片](https://github.com/gaoxinge/os/blob/master/architecture/%E8%8A%AF%E7%89%87.md)
 
