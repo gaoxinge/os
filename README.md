@@ -23,6 +23,6 @@
 - [»ù´¡](https://github.com/gaoxinge/os/blob/master/linux/%E5%9F%BA%E7%A1%80.md)
 - [½Ì³Ì](https://github.com/gaoxinge/os/blob/master/linux/%E6%95%99%E7%A8%8B.md)
 
-### other
+## other
 
 - [book](./other/book)
