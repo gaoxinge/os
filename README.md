@@ -14,7 +14,11 @@
 
 ## virtualization
 
+- 略
+
 ## distribution
+
+- [architecture](./distribution/architecture)
 
 ## other
 
