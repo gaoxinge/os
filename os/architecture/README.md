@@ -137,7 +137,7 @@
   - [教程](https://github.com/gaoxinge/os/blob/master/linux/%E6%95%99%E7%A8%8B.md)
 - 命令
 
-```shell
+```
 docker pull ubuntu
 docker run -it ubuntu
 ```
@@ -149,7 +149,7 @@ docker run -it ubuntu
   - [教程](https://github.com/THM-TheoreM/Python)
 - 命令
 
-```shell
+```
 docker pull python:3.5
 docker run -it python:3.5
 docker run -v $PWD/myapp:/usr/src/myapp -w /usr/src/myapp python:3.5 python helloworld.py
